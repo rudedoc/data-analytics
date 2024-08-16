@@ -21,3 +21,14 @@ Loads the data from AWS S3 to a local "Data" Directory with progress indicators
 - Crime Data: NYPD Complaints Data
   - List of every arrest in NYC going back to 2006 through the end of the previous calendar year. This is a breakdown of every arrest effected in NYC by the NYPD going back to 2006 through the end of the previous calendar year.
   - Rows 5.72M, Columns 19, File size, 3.03GB
+
+## 2 - NYPD Cleaning and Reduction
+This script inspects the initial data, cleans and reduces the dataset.
+- Drop Columns not relevant to investigation
+- Remove old data from pre 2028
+- Remove rows with NaN, (null), UNKNOWN values
+- Write data to file for next step
+
+## 3 - NYPD Exploration
+Exploratory Data Analysis
+
