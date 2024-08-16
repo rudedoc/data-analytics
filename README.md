@@ -1,22 +1,17 @@
 # NYC Property and a predictor of Crime
-
 This exploration has been organized as a set of Jupyter Notebooks.
 The notebooks should be executed in a specific order as each notebook will mutate the state of the overall exploration in steps.
-
-### data folder
+# data folder
 Working directory where data is loaded and various iterations of the data is stored.
-
+# mappings folder
 Some files have been prepared for mapping various columns in the data to ordinal/score and categorical values.
-### mappings folder
-
-### scripts folder
+# scripts folder
 Contains order set of Jupyter note books
 
 - severity_score.csv - mapping crime types to a severity_score
 - crime_type_categories.csv - mapping crime types a super category
 - economic_values.csv - mapping property types to an economic score
-
-## Step 1 - Loading Data
+# Step 1 - Loading Data
 Loads the data from AWS S3 to a local "Data" Directory with progress indicators
 
 - Property Data: NYC Property Valuation and Assessment Data
