@@ -1,4 +1,4 @@
 .DS_Store
 *-checkpoint.ipynb
-data/*
+data/*.csv
 scripts/__pycache__/mongo_handler.cpython-311.pyc
