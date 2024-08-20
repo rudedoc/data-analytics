@@ -18,13 +18,14 @@ Contains order set of Jupyter note books
 The experiment is contained in a number of jupyter notebooks in the script folder.
 The experiment should be run in the order as set in the file names in the script folder:
 
-|Order    |File Name                                              |Inputs   |Outputs      |
-|---------|-------------------------------------------------------|---------|-------------|
-|1        |1 - Loading Data.ipynb                                 |         |             |
-|2        |2 - NYC Mental Health Services Data Preparation.ipynb  |         |             |
-|3        |3 - NYC Mental Health Services Data Exploration.ipynb  |         |             |
-|4        |4 - NYC Census Data Preparation.ipynb                  |         |             |
-|5        |5 - NYC Census Data Exploration.ipynb                  |         |             |
-|6        |6 - NYPD Complaints Data Preparation.ipynb             |         |             |
-|7        |7 - NYPD Complaints Data Exploration.ipynb             |         |             |
-|8        |8 - Model Training.ipynb                               |         |             |
+|Order    |File Name                                              |
+|---------|-------------------------------------------------------|
+|1        |1 - Loading Data.ipynb                                 |
+|2        |2 - NYC Mental Health Services Data Preparation.ipynb  |
+|3        |3 - NYC Mental Health Services Data Exploration.ipynb  |
+|4        |4 - NYC Census Data Preparation.ipynb                  |
+|5        |5 - NYC Census Data Exploration.ipynb                  |
+|6        |6 - NYPD Complaints Data Preparation.ipynb             |
+|7        |7 - NYPD Complaints Data Exploration.ipynb             |
+|8        |8 - Model Training.ipynb                               |
+|8        |9 - NYC Classification Model Evaluation.ipynb          |
