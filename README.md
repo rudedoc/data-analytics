@@ -2,7 +2,6 @@
 ## Mark Finlay - National College of Ireland - x10209221@student.ncirl.ie
 Code artifact for Data Analytics Module for PGDAI, August 2024
 
-
 This exploration has been organized as a set of Jupyter Notebooks.
 The notebooks should be executed in a specific order as each notebook will mutate the state of the overall exploration in steps.
 ### data folder
@@ -33,3 +32,9 @@ The experiment should be run in the order as set in the file names in the script
 |7        |7 - NYPD Complaints Data Exploration.ipynb             |
 |8        |8 - Model Training.ipynb                               |
 |8        |9 - NYC Classification Model Evaluation.ipynb          |
+
+## Final Model
+You can download the final trained model here: `https://mf-data-analytics.s3.eu-west-1.amazonaws.com/nyc_crime_category_random_forest_model_180_18.pkl`. It is approx 11.GB in size.
+
+## Video Presentation
+https://studentncirl-my.sharepoint.com/:v:/r/personal/x10209221_student_ncirl_ie/Documents/Recordings/Data%20Analytics%20Presentation%20-%20Mark%20Finlay%20-%20x10209221%20-%20NYC%20Data-20240820_214800-Meeting%20Recording.mp4?csf=1&web=1&e=5FCgVG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
