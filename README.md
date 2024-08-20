@@ -1,4 +1,8 @@
 # NYC predictors of Crime
+## Mark Finlay - National College of Ireland - x10209221@student.ncirl.ie
+Code artifact for Data Analytics Module for PGDAI, August 2024
+
+
 This exploration has been organized as a set of Jupyter Notebooks.
 The notebooks should be executed in a specific order as each notebook will mutate the state of the overall exploration in steps.
 ### data folder
